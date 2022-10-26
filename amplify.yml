@@ -14,5 +14,5 @@ applications:
           - '**/*'
       cache:
         paths:
-          - node_modules/**/*
+          - apps/monoapp/node_modules/**/*
     appRoot: apps/monoapp
